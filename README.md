@@ -7,14 +7,14 @@ I’m a **Senior SDET/QA Consultant/Lead** with over 12 years of experience in *
 
 ### 🛠 **Core Expertise:**
 
-- **UI Test Automation**: WebdriverIO, Cypress, Selenium, Playwright, CodeceptJS
+- **UI Test Automation**: Selenium WebDriver, WebdriverIO, Cypress, Playwright, CodeceptJS
 - **API Test Automation**: RestAssured, Karate, Postman, Pact, SoapUI
+- **Performance Testing**: JMeter, Gatling, K6
 - **Mobile Test Automation**: Appium
 - **Infrastructure Automation**: TerraTest, Testify, AWS, Terraform, Ansible, Vault
-- **Performance Testing**: Gatling, K6, JMeter
-- **Programming Languages**: Java, JavaScript, TypeScript, C#
-- **Continuous Integration Tools**: Jenkins, GitLab CI, Azure, Kubernetes, Docker
+- **Programming Languages**: Java, JavaScript, TypeScript, Python
 - **Security & Accessibility Testing**: Zap, Wave, Pa11y
+- **Continuous Integration Tools**: Jenkins, GitLab CI, Azure DevOps, Kubernetes, Docker
 
 ---
 
