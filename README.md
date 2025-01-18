@@ -21,9 +21,9 @@ I’m a **Senior SDET/QA Consultant/Lead** with over 12 years of experience in *
 ### 🚀 **Technologies I Use:**
 
 - **UI Test Automation**:
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
   ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-2C2F33?style=for-the-badge&logo=webdriverio&logoColor=red)
   ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
   ![Playwright](https://img.shields.io/badge/Playwright-2C2F33?style=for-the-badge&logo=playwright&logoColor=green)
 
 - **API Test Automation**:
@@ -33,9 +33,9 @@ I’m a **Senior SDET/QA Consultant/Lead** with over 12 years of experience in *
   ![SoapUI](https://img.shields.io/badge/SoapUI-6DB33F?style=for-the-badge&logo=soapui&logoColor=white)
 
 - **Performance Testing**:
+  ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
   ![Gatling](https://img.shields.io/badge/Gatling-FF5733?style=for-the-badge&logo=gatling&logoColor=white)
   ![K6](https://img.shields.io/badge/K6-14274E?style=for-the-badge&logo=k6&logoColor=white)
-  ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 
 - **Infrastructure & Cloud Automation**:
   ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -53,7 +53,6 @@ I’m a **Senior SDET/QA Consultant/Lead** with over 12 years of experience in *
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 - **CI/CD & Source Control**:
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
